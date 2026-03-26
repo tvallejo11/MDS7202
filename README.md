@@ -1,12 +1,12 @@
 # MDS7202 - Laboratorio de Programación Científica para Ciencia de Datos
 
-Este repositorio contiene todas las evaluaciones y el proyecto final del curso **MDS7202**, dictado en el semestre **Otoño 2026** para el Magíster en Ciencia de Datos de la Universidad de Chile.
+Este repositorio contiene todas las evaluaciones y el proyecto final del curso **MDS7202**, dictado en el semestre **Otoño 2026**.
 
 ## 👥 Contribuidores
 * **Tomás Osvaldo Vallejo Cerda**
 
 ## 📂 Estructura del Repositorio
-El repositorio se organiza de la siguiente manera para asegurar el orden y la prolijidad exigidos:
+El repositorio se organiza de la siguiente manera para asegurar el orden y la prolijidad:
 
 * **`Laboratorios/`**: Carpeta que contiene los 12 laboratorios semanales del curso.
     * `lab_01/`: Phyton y Git.
