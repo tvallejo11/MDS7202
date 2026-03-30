@@ -11,6 +11,7 @@ El repositorio se organiza de la siguiente manera para asegurar el orden y la pr
 * **`Laboratorios/`**: Carpeta que contiene los 12 laboratorios semanales del curso.
     * `lab_01/`: Phyton y Git.
     * `lab_02/`: Imágenes - OOP
+    * `lab_03/`: Pandas
 * **`Proyecto/`**: Carpeta destinada al proyecto final del semestre (Informe + Código + Predicciones).
 
 ## 🛠️ Cómo ejecutar el código
