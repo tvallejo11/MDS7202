@@ -13,6 +13,7 @@ El repositorio se organiza de la siguiente manera para asegurar el orden y la pr
     * `lab_02/`: Imágenes - OOP
     * `lab_03/`: Pandas
     * `lab_04/`: Pandas II
+    * `lab_04/`: Pandas III
 * **`Proyecto/`**: Carpeta destinada al proyecto final del semestre (Informe + Código + Predicciones).
 
 ## 🛠️ Cómo ejecutar el código
