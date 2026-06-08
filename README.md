@@ -16,6 +16,7 @@ El repositorio se organiza de la siguiente manera para asegurar el orden y la pr
     * `lab_05/`: Pandas III
     * `lab_06/`: Pipelines y Feature Engineering
     * `lab_07/`: Ensamblaje, Optimización de Hiperparámetros e Interpretabilidad
+    * `lab_08/`: Ready, Set, Deploy
 
 * **`Proyecto/`**: Carpeta destinada al proyecto final del semestre (Informe + Código + Predicciones).
 
