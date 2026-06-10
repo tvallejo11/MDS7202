@@ -207,3 +207,4 @@ marimo/_lsp/
 __marimo__/
 Laboratorios/Lab_02/images_lab/
 .DS_Store
+mlruns/
