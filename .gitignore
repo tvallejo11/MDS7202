@@ -210,3 +210,12 @@ Laboratorios/Lab_02/images_lab/
 mlruns/
 
 Laboratorios/Lab_09/logs/
+
+# Proyecto - datos y artefactos pesados
+Proyecto/ProyectoFinal/data/
+Proyecto/ProyectoFinal/mlruns/
+Proyecto/ProyectoFinal/mlflow.db
+Proyecto/ProyectoFinal/.cache_pipelines/
+Proyecto/ProyectoFinal/**/*.pkl
+Proyecto/ProyectoFinal/**/*.pickle
+Proyecto/ProyectoFinal/.env
