@@ -219,3 +219,5 @@ Proyecto/ProyectoFinal/.cache_pipelines/
 Proyecto/ProyectoFinal/**/*.pkl
 Proyecto/ProyectoFinal/**/*.pickle
 Proyecto/ProyectoFinal/.env
+Proyecto/ProyectoFinal/backend/.venv
+Proyecto/ProyectoFinal/frontend/.venv
